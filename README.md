@@ -4,7 +4,7 @@
 
 | Name | Matrikelnummer | GitHub-Username | HAW-E-Mail |
 |------|---------------|-----------------|-----------|
-| [Name] | [Matrikelnr.] | [@username](https://github.com/username) | vorname.nachname@stud.haw-kiel.de |
+| Fabian | [Matrikelnr.] | [@username](https://github.com/username) | vorname.nachname@stud.haw-kiel.de |
 | [Name] | [Matrikelnr.] | [@username](https://github.com/username) | vorname.nachname@stud.haw-kiel.de |
 | [Name] | [Matrikelnr.] | [@username](https://github.com/username) | vorname.nachname@stud.haw-kiel.de |
 
